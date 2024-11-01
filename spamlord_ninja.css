@@ -1,0 +1,4 @@
+.ninja {display:none;}
+#icon-spamlord {background:transparent url('spamlord_screenicon.png') no-repeat top left;float:left;display:block;width:64px;height:64px;margin:.6em 1em 0;}
+.spamlord .postbox h3 {cursor:default;}
+.wrap.spamlord h2 {height:64px;line-height:84px;margin:0 0 .25em 0;}
